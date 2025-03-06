@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # weather-app
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -27,3 +28,7 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+# weather_app
+An app that gives weather depending on the location the user searches for
+>>>>>>> 31c6913e590e6fc3763e77b04a3d47a270d18be9
